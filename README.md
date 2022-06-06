@@ -18,6 +18,7 @@
 * OWASP projects
 * Self-Hosted Container Registry for private usage
 * Self-Hosted Sigstore deployment within Google Cloud Platform (manual deployment to Kubernetes deployment which will be housed on Underground Nexus)
+* [InverisfyJS](https://github.com/inversify/InversifyJS) - Added as contributor to InversifyJS
 * [Underground Nexus](https://github.com/acald-creator/underground-nexus) - Dockerized copy-paste data center that can be deployed anywhere.
 * [AWS CI/CD Pipelines with Sigstore Cosign](https://github.com/acald-creator/cosign-aws-cicd-go) - How to automate a Dockerfile image to be built and signed with Cosign through AWS CodePipeline, AWS CodeCommit to house the repository, and AWS ECS to run tasks to ensure that the image is signed and verified.
 * [Photo Sharing App in Go](https://github.com/acald-creator/foto-sharing-in-go) - Early beta of a serverless todo app in Golang. Intended for the end product of migrating from another project.
