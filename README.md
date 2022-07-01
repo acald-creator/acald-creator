@@ -4,7 +4,7 @@
 - Cloud Native
 - Cloud Security
 - API Security
-- DevSecOps
+- DevSecOps (CI/CD Pipelines)
 - Penetration Testing
 - Threat Modeling
 - Low-Level Systems Design
